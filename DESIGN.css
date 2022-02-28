@@ -1,0 +1,51 @@
+.main-div{
+    display: flex;
+}
+.fast-div{ 
+    background: url(twitter_12.jpg);
+    background-position: center;
+    background-size: cover;
+    flex-basis: 50%;
+    border-color: rgb(131, 179, 241);
+
+}
+.second-div{
+    flex-basis: 50%;
+    background-color: rgb(167, 215, 243);
+}
+.direction{
+    position: absolute;
+    left: 15%;
+    top: 45%;
+}
+#pic{
+    border-radius: 50%;
+}
+#button{
+    background-color: rgb(61, 61, 165);
+    color: white;
+    border-radius: 30px;
+    width: 200px;
+    height: 40px;
+}
+#but{
+    background-color: rgb(241, 241, 248);
+    color: rgb(69, 57, 230);
+    border-radius: 30px;
+    width: 200px;
+    height: 40px
+}
+#log{
+    background-color: rgb(209, 209, 231);
+    color: rgb(79, 47, 219);
+    border-radius: 30px;
+    width: 100px;
+    height: 40px;
+   border-color: rgb(60, 129, 209);
+      
+}
+#size{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
